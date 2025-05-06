@@ -2,7 +2,7 @@
 ---
 Portal Berita adalah website dinamis yang menyajikan berbagai informasi dan berita terkini dari berbagai kategori seperti nasional, teknologi, hiburan, dan olahraga. Website ini dibangun menggunakan Laravel di sisi backend dan HTML, CSS, JavaScript, serta Bootstrap di sisi frontend. Informasi berita diperoleh melalui integrasi RESTful API dan News API.
 ---
-##*Profile*
+## *Profile*
 ### Bryan Anantha Manggala Pranaja Hartono - Universitas Pembangunan Nasional Veteran Jawa Timur
 ---
 ## 🔧 Teknologi yang Digunakan
